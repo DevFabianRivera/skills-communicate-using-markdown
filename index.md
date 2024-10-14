@@ -2,3 +2,7 @@
 ## Este es un encabezado `<h2>` más pequeño
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
